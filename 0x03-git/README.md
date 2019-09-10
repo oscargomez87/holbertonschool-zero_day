@@ -1,0 +1,2 @@
+# Project 0x03-git folder
+This projects allow us to understand code management, using the tool *git* and a web site created around git to centralize and store software and the development of it *GitHub*
